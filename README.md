@@ -5,5 +5,5 @@ To make nonconformist work with scikit-learn 0.23.2 (read documentation etc. the
 # Installation
 
 ```bash
-git clone https://github.com/phamg/nonconformist
+pip install git+https://github.com/phamg/nonconformist
 ```
