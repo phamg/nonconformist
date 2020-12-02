@@ -1,6 +1,6 @@
 # Why the fork?
 
-This version works with scikit-learn 0.23.2.
+To make nonconformist work with scikit-learn 0.23.2.
 
 # nonconformist
 
