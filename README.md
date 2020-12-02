@@ -1,3 +1,7 @@
+# Why the fork?
+
+This version works with scikit-learn 0.23.2.
+
 # nonconformist
 
 Python implementation of the conformal prediction framework [1].
