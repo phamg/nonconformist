@@ -4,7 +4,7 @@ from distutils.core import setup
 import nonconformist
 
 setup(
-	name = 'nonconformist_new',
+	name = 'nonconformist',
 	packages = ['nonconformist'],
 	version = nonconformist.__version__,
 	description = 'Python implementation of the conformal prediction framework.',
