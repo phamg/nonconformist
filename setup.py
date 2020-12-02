@@ -10,7 +10,7 @@ setup(
 	description = 'Python implementation of the conformal prediction framework.',
 	author = 'Henrik Linusson',
 	author_email = 'henrik.linusson@gmail.com',
-	url = 'https://github.com/donlnz/nonconformist',
+	url = 'https://github.com/phamg/nonconformist',
 	download_url = 'https://github.com/donlnz/nonconformist/tarball/' + nonconformist.__version__,
 	install_requires = ['numpy', 'scikit-learn', 'scipy', 'pandas'],
 	keywords = ['conformal prediction',
